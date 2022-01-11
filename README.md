@@ -23,4 +23,4 @@
 * [新手該怎麼問出好問題？](/../../issues/6)
 * [Java Backend Developer 為什麼要學 Kotlin？](/../../issues/7)
 * [什麼時候需要重構程式碼？](/../../issues/8)
-* [我要學框架嗎？](/../../issues/)
+* [我要學框架嗎？](/../../issues/9)
